@@ -23,3 +23,10 @@ Oct, 2016  [Interações contemporâneas: as mídias digitais como meio de produ
 thesis, 2018 [Design generativo como ferramenta e metodologia projetual na construção metálica](http://www.repositorio.ufop.br/handle/123456789/10640)
 
 tfg, 2015 [Mapas contemporâneos: os mapas colaborativos como meio de produção, apropriação e planejamento das cidades](https://github.com/renatogcruz/CV/blob/master/others/tfg_renatogcruz.pdf)
+
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/renato-g-cruz-81632965/)
+
+[Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4388894U9)
