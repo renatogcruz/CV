@@ -129,8 +129,8 @@ A maioria dos softwares de modelagem e computação gráfica oferecidos atualmen
 tem o domínio sobre esses recursos, podemos transcender quaisquer limitações que o software pode nos impor como *designer*. Dessa
 forma, este estudo foca na potência dos algoritmos num exercício de arquitetura generativa.
 
-![](images/08_py)
-![](images/09_py)
+![](images/08_py.jpg)
+![](images/09_py.jpg)
 
 *em desenvolvimento*
 
@@ -142,7 +142,7 @@ Estudo dedicado a algoritmos evolutivos (EAs) e algoritmos genéticos (GA) com P
 [[+]](https://github.com/renatogcruz/Evolutionary-computing)
 
 ---
-## Design EM CÓDIGO
+## Arquitetura CONSTRUÍDA COM CÓDIGO
 
 Computação como meio de design e impacto em disciplinas criativas e pedagogias relacionadas à educação em *design*.
 
@@ -150,13 +150,13 @@ Computação como meio de design e impacto em disciplinas criativas e pedagogias
 ##### Python
 
 1. Treliça simples
-![](images/simplesTruss)
+![](images/simplesTruss.gif)
 
 2. Treliça simples
-![](images/002trussSimple)
+![](images/002trussSimple.gif)
 
 3. Treliça espacial
-![](images/003_spaceTruss)
+![](images/003_spaceTruss.gif)
 
 [[+]](https://github.com/renatogcruz/DesignCode)
 
@@ -166,11 +166,11 @@ Computação como meio de design e impacto em disciplinas criativas e pedagogias
 
 Template para automatizar análise estrutural de treliças metálicas no ambiente Grasshopper + Karamba 3D
 
-![](images/simpleTruss)
+![](images/simpleTruss.jpg)
 
 Algoritmo escrito em Python para automatizar projetos de treliças metálicas constituídas de barras tubulares, de acordo com a norma brasileira NBR8800.
 
-![](images/11_analise_final)
+![](images/11_analise_final.gif)
 
 [[+]](https://github.com/renatogcruz/truss_analysis)
 
@@ -189,9 +189,9 @@ Entradas:
 5. dados: lista de dados.
 
 #### Entradas
-![](images/data001)
+![](images/data001.gif)
 
 #### Saídas
-![](images/data002)
+![](images/data002.gif)
 
 [[+]](https://github.com/renatogcruz/data-capture)
