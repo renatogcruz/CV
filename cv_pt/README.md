@@ -1,18 +1,63 @@
 ![](images/cv_image.jpg)
-My curriculum
 
-#### Education
+## Renato Godoi da Cruz
+Arquiteto e Urbanista
 
-##### **Federal University of Ouro Preto, UFOP**
+##### contato
+renatogcruz@hotmail.com
 
+(19) 9 9716-5302
 
-2016 - 2018	Master of Science (M.S.) in metallic construction
+(19) 3541-4627
 
-2010 - 2015 Bachelor of Science (B.S.) in Architecture
+##### endereço
+rua vitório mazon, 165
 
+campestre
 
-#### Publications
+araras | sp
 
+## INDICAÇÃO PESSOAL
+
+Arquiteto e Urbanista graduado pela Escola de Minas - Universidade Federal de Ouro Preto (UFOP). Na graduação foi membro, durante o ano de 2014 e parte de 2015, do grupo de pesquisa (CNPq) HÍBRIDA - poéticas híbridas da cena contemporânea, grupo que integra pesquisadores das artes cênicas e outros cursos na investigação de conceitos, procedimentos e dispositivos de criação concernentes às poéticas híbridas da cena contemporânea, por meio de seu estudo, problematização e experimentação. Atualmente é aluno do Programa de Mestrado Profissional em Construção Metálica do Departamento de Eng. Civil da mesma instituição. Na ocasião pesquisa, explora e avalia o potencial da utilização dos algoritmos evolutivos como ferramenta de otimização integrada ao Design Generativo como método de projeto, identificando o conteúdo teórico de base, explorando e avaliando está abordagem em um estudo de caso.
+
+## EDUCAÇÃO
+
+##### Universidade Federal de Ouro Preto | UFOP
+
+2016 - 2018	Mestrado (M.S.) em construção metálica
+
+2010 - 2015 Bacharel (B.S.) em arquitetura e urbanismo
+
+## CURSOS IMPORTANTES
+
+2015 - interdisciplinar | ufmg - workshop de Urbanismo tático
+
+2015 - ufop - oficina de arquitetura paramétrica
+
+2013 - min. cidades - curso reabilitação urbana com foco em áreas centrais.
+
+2017 - min. cidades - estudo de impacto de vizinhança - eiv
+
+## EXPERIÊNCIAS PROFISSIONAIS
+
+2016 - proj.arquitetura - cervejaria weiterbier | kamofa (mariana, mg)
+
+2016 - eiv - estudo de impacto de vizinhança ouro preto tênis clube (ouro preto, mg)
+
+##### Estágios
+
+2014 (agosto à outubro) - bruno lopes studios (ribeirão preto, sp)
+
+2014 (julho à agosto) - renata lemos paisagismo com. e serv. ltda (passos, mg)
+
+2014 (julho à agosto) - virtual arquitetura e ambiente (passos, mg)
+
+## HABILIDADES
+
+![](images/habilidades.jpg)
+
+## PUBLICAÇÕES
 
 Nov, 2018 [Generative design in the design development of metallic constructions](http://www.proceedings.blucher.com.br/article-details/29707).
 Published in the XXII International Congress of the Ibero-American Society of Digital Graphics.
@@ -23,6 +68,7 @@ Oct, 2016  [Interações contemporâneas: as mídias digitais como meio de produ
 thesis, 2018 [Design generativo como ferramenta e metodologia projetual na construção metálica](http://www.repositorio.ufop.br/handle/123456789/10640)
 
 tfg, 2015 [Mapas contemporâneos: os mapas colaborativos como meio de produção, apropriação e planejamento das cidades](https://github.com/renatogcruz/CV/blob/master/others/tfg_renatogcruz.pdf)
+
 
 
 ---
@@ -129,10 +175,8 @@ A maioria dos softwares de modelagem e computação gráfica oferecidos atualmen
 tem o domínio sobre esses recursos, podemos transcender quaisquer limitações que o software pode nos impor como *designer*. Dessa
 forma, este estudo foca na potência dos algoritmos num exercício de arquitetura generativa.
 
-![](images/08_py.jpg)
-![](images/09_py.jpg)
-
-*em desenvolvimento*
+![](images/08_python.jpg)
+![](images/09_python.jpg)
 
 ---
 ## Estudos ALGORITMOS PARA OTIMIZAÇÃO GLOBAL INSPIRADOS NA EVOLUÇÃO BIOLÓGICA
@@ -146,11 +190,10 @@ Estudo dedicado a algoritmos evolutivos (EAs) e algoritmos genéticos (GA) com P
 
 Computação como meio de design e impacto em disciplinas criativas e pedagogias relacionadas à educação em *design*.
 
-##### Rhinoceros + Grasshopper
-##### Python
+##### Rhinoceros + Grasshopper | Python
 
 1. Treliça simples
-![](images/simplesTruss.gif)
+![](images/simpleTruss.gif)
 
 2. Treliça simples
 ![](images/002trussSimple.gif)
@@ -160,13 +203,12 @@ Computação como meio de design e impacto em disciplinas criativas e pedagogias
 
 [[+]](https://github.com/renatogcruz/DesignCode)
 
-
 ---
 ## Template PARA ANÁLISE ESTRUTURAL DE TRELIÇAS METÁLICAS]
 
 Template para automatizar análise estrutural de treliças metálicas no ambiente Grasshopper + Karamba 3D
 
-![](images/simpleTruss.jpg)
+![](images/simpleTruss.png)
 
 Algoritmo escrito em Python para automatizar projetos de treliças metálicas constituídas de barras tubulares, de acordo com a norma brasileira NBR8800.
 
