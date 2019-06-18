@@ -1,6 +1,6 @@
 ![](images/cv_image.jpg)
 
-## Renato Godoi da Cruz
+## RENATO GODOI DA CRUZ
 Arquiteto e Urbanista
 
 ##### contato
