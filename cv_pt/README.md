@@ -90,15 +90,17 @@ A oficina de Arquitetura Paramétrica foi oferecida no primeiro semestre de 2015
 
 Protótipo do Estúdio para os alunos do curso de Arquitetura e Urbanismo da UFOP
 ![](images/01.jpg)
-----
+
 Protótipo do Estúdio | Impressora 3D
+
 ![](images/02.jpg)
-----
+
 Processo aplique rhinoceros + Grasshopper
+
 ![](images/03.jpg)
-----
+
 ![](images/04.jpg)
-----
+
 ![](images/05.jpg)
 
 [[+]](https://github.com/renatogcruz/workshop_parametric_architecture)
