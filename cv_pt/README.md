@@ -69,6 +69,11 @@ thesis, 2018 [Design generativo como ferramenta e metodologia projetual na const
 
 tfg, 2015 [Mapas contemporâneos: os mapas colaborativos como meio de produção, apropriação e planejamento das cidades](https://github.com/renatogcruz/CV/blob/master/others/tfg_renatogcruz.pdf)
 
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/renato-g-cruz-81632965/)
+
+[Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4388894U9)
 
 
 ---
@@ -83,15 +88,17 @@ UNIVERSIDADE FEDERAL DE OURO PRETO | 2015
 
 A oficina de Arquitetura Paramétrica foi oferecida no primeiro semestre de 2015 pelo Departamento de Arquitetura e Urbanismo em parceria com o professor e arquiteto Rafael Lemieszek Pinheiro. Durante o curso foi abordado aspectos da arquitetura aberta e da participativa nos processos de projeto. Projetos realizados: aplique de banco + protótipo de estúdio para práticas de obras do curso de arquitetura e urbanismo da universidade.
 
-**Protótipo do Estúdio para os alunos do curso de Arquitetura e Urbanismo da UFOP**
+Protótipo do Estúdio para os alunos do curso de Arquitetura e Urbanismo da UFOP
 ![](images/01.jpg)
-**Protótipo do Estúdio | Impressora 3D**
+----
+Protótipo do Estúdio | Impressora 3D
 ![](images/02.jpg)
-**Processo aplique rhinoceros + Grasshopper**
+----
+Processo aplique rhinoceros + Grasshopper
 ![](images/03.jpg)
-
+----
 ![](images/04.jpg)
-
+----
 ![](images/05.jpg)
 
 [[+]](https://github.com/renatogcruz/workshop_parametric_architecture)
@@ -176,6 +183,7 @@ tem o domínio sobre esses recursos, podemos transcender quaisquer limitações 
 forma, este estudo foca na potência dos algoritmos num exercício de arquitetura generativa.
 
 ![](images/08_python.jpg)
+
 ![](images/09_python.jpg)
 
 ---
@@ -208,7 +216,7 @@ Computação como meio de design e impacto em disciplinas criativas e pedagogias
 
 Template para automatizar análise estrutural de treliças metálicas no ambiente Grasshopper + Karamba 3D
 
-![](images/simpleTruss.png)
+![](images/truss_diagram.jpg)
 
 Algoritmo escrito em Python para automatizar projetos de treliças metálicas constituídas de barras tubulares, de acordo com a norma brasileira NBR8800.
 
