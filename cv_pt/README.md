@@ -19,13 +19,13 @@ araras | sp
 
 ## INDICAÇÃO PESSOAL
 
-Arquiteto e Urbanista graduado pela Escola de Minas - Universidade Federal de Ouro Preto (UFOP). Na graduação foi membro, durante o ano de 2014 e parte de 2015, do grupo de pesquisa (CNPq) HÍBRIDA - poéticas híbridas da cena contemporânea, grupo que integra pesquisadores das artes cênicas e outros cursos na investigação de conceitos, procedimentos e dispositivos de criação concernentes às poéticas híbridas da cena contemporânea, por meio de seu estudo, problematização e experimentação. Atualmente é aluno do Programa de Mestrado Profissional em Construção Metálica do Departamento de Eng. Civil da mesma instituição. Na ocasião pesquisa, explora e avalia o potencial da utilização dos algoritmos evolutivos como ferramenta de otimização integrada ao Design Generativo como método de projeto, identificando o conteúdo teórico de base, explorando e avaliando está abordagem em um estudo de caso.
+Arquiteto e Urbanista graduado pela Escola de Minas - Universidade Federal de Ouro Preto (UFOP). Na graduação foi membro, durante o ano de 2014 e parte de 2015, do grupo de pesquisa (CNPq) HÍBRIDA - poéticas híbridas da cena contemporânea, grupo que integra pesquisadores das artes cênicas e outros cursos na investigação de conceitos, procedimentos e dispositivos de criação concernentes às poéticas híbridas da cena contemporânea, por meio de seu estudo, problematização e experimentação. Mestre do Programa de Mestrado Profissional em Construção Metálica do Departamento de Eng. Civil da mesma instituição. Nesta ocasião, pesquisei, explorei e avaliei o potencial da utilização dos algoritmos evolutivos como ferramenta de otimização integrada ao Design Generativo como método de projeto, identificando o conteúdo teórico de base, explorando e avaliando está abordagem em um estudo de caso.
 
 ## EDUCAÇÃO
 
 ##### Universidade Federal de Ouro Preto | UFOP
 
-2016 - 2018	Mestrado (M.S.) em construção metálica
+2016 - 2018	Mestre (M.S.) em construção metálica
 
 2010 - 2015 Bacharel (B.S.) em arquitetura e urbanismo
 
