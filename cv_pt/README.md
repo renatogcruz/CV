@@ -41,6 +41,8 @@ Arquiteto e Urbanista graduado pela Escola de Minas - Universidade Federal de Ou
 
 ## EXPERIÊNCIAS PROFISSIONAIS
 
+2019 - corrente - analista de desenvolvimento urbano | sec. planejamento urbano (uberlândia, mg)
+
 2016 - proj.arquitetura - cervejaria weiterbier | kamofa (mariana, mg)
 
 2016 - eiv - estudo de impacto de vizinhança ouro preto tênis clube (ouro preto, mg)
