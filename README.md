@@ -18,7 +18,7 @@ My curriculum
 
 ### **Urban Development Analyst**
 
-2019 - current Secretary of Urban Planning of Uberlândia (BR)
+2019 - current Urban Development Analyst - Urban Planning Secretary (Uberlândia|BR)
 
 ----
 
