@@ -41,7 +41,7 @@ Arquiteto e Urbanista graduado pela Escola de Minas - Universidade Federal de Ou
 
 ## EXPERIÊNCIAS PROFISSIONAIS
 
-2019 - atual - analista de desenvolvimento urbano | diretoria de acessibilidade e mobilidade reduzida | sec. planejamento urbano (uberlândia, mg)
+2019 - atual - analista de desenvolvimento urbano | diretoria de acessibilidade e mobilidade reduzida | secretária de planejamento urbano (uberlândia, mg)
 
 2016 - proj.arquitetura - cervejaria weiterbier | kamofa (mariana, mg)
 
