@@ -43,6 +43,8 @@ thesis, 2018 [Design generativo como ferramenta e metodologia projetual na const
 
 tfg, 2015 [Mapas contemporâneos: os mapas colaborativos como meio de produção, apropriação e planejamento das cidades](https://github.com/renatogcruz/CV/blob/master/others/tfg_renatogcruz.pdf)
 
+ufop virtual, 2012 [UFOP Virtual versão 1.0 - Serious Game](http://www.terralab.ufop.br/dokuwiki/doku.php?id=terralab:download)- Unregistered computer programs
+
 ----
 
 ## LINKS
