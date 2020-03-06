@@ -5,6 +5,11 @@ My curriculum
 
 ## EDUCATION
 
+### **Pontifical Catholic University of Minas Gerais, PUC**
+
+2020 - [...] Postgraduate (lato sensu) in Building Information Modeling
+
+
 ### **Federal University of Ouro Preto, UFOP**
 
 
