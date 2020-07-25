@@ -13,7 +13,7 @@ My curriculum
 ### **Federal University of Ouro Preto, UFOP**
 
 
-2016 - 2018	Master of Science (M.S.) in metallic construction
+2016 - 2018	Master of Science (M.S.) in Metallic Construction
 
 2010 - 2015 Bachelor of Science (B.S.) in Architecture
 
