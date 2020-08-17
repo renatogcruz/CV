@@ -1,21 +1,38 @@
 # CV
-My curriculum
+
+Meu currículo
+
+***My curriculum***
 
 ----
 
 ## EDUCATION
 
-### **Pontifical Catholic University of Minas Gerais, PUC**
+### Pontífica Católica Universidade de Minas Gerais, PUC
 
-2020 - [...] Postgraduate (lato sensu) in Building Information Modeling
+***Pontifical Catholic University of Minas Gerais, PUC***
+
+2020 - [...]
+
+Posgraduação (lato sensu) em Building Information Modeling
+
+***Postgraduate (lato sensu) in Building Information Modeling***
 
 
 ### **Federal University of Ouro Preto, UFOP**
 
 
-2016 - 2018	Master of Science (M.S.) in Metallic Construction
+2018	
 
-2010 - 2015 Bachelor of Science (B.S.) in Architecture
+Mestrado em Construção Metálica (Dep. Engenharia Civil)
+
+***Master of Science (M.S.) in Metallic Construction***
+
+2015 
+
+Bacharel em Arquitetura e Urbanismo
+
+***Bachelor of Science (B.S.) in Architecture***
 
 ----
 
@@ -23,11 +40,17 @@ My curriculum
 
 ### **Urban Development Analyst**
 
-2019 - current Urban Development Analyst - Urban Planning Secretary (Uberlândia|BR)
+2019 - [...]
+
+Analista de Desenvolvimento Urbano - Secretária de Planejamento Urbano da cidade de Uberlândia | MG
+
+***Urban Development Analyst - Urban Planning Secretary (Uberlândia | BR)***
 
 ----
 
-## PUBLICATIONS
+## PUBLICAÇÕES
+
+***PUBLICATIONS***
 
 
 Nov, 2018 [Generative design in the design development of metallic constructions](http://www.proceedings.blucher.com.br/article-details/29707).
@@ -37,7 +60,9 @@ Oct, 2016  [Interações contemporâneas: as mídias digitais como meio de produ
 
 ----
 
-## OTHERS
+## OUTROS
+
+***OTHERS***
 
 thesis, 2018 [Design generativo como ferramenta e metodologia projetual na construção metálica](http://www.repositorio.ufop.br/handle/123456789/10640)
 
