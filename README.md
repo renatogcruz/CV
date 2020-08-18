@@ -2,43 +2,49 @@
 
 Meu currículo
 
-***My curriculum***
+*My curriculum*
 
 ----
+## EDUCAÇÃO
 
-## EDUCATION
+*EDUCATION*
 
 ### Pontífica Católica Universidade de Minas Gerais, PUC
 
-***Pontifical Catholic University of Minas Gerais, PUC***
+*Pontifical Catholic University of Minas Gerais, PUC*
 
 2020 - [...]
 
 Posgraduação (lato sensu) em Building Information Modeling
 
-***Postgraduate (lato sensu) in Building Information Modeling***
+*Postgraduate (lato sensu) in Building Information Modeling*
+
+### Universidade Federal de Ouro Preto, UFOP
+
+*Federal University of Ouro Preto, UFOP*
 
 
-### **Federal University of Ouro Preto, UFOP**
-
-
-2018	
+2016 - 2018	
 
 Mestrado em Construção Metálica (Dep. Engenharia Civil)
 
-***Master of Science (M.S.) in Metallic Construction***
+*Master of Science (M.S.) in Metallic Construction*
 
-2015 
+2010 - 2015 
 
 Bacharel em Arquitetura e Urbanismo
 
-***Bachelor of Science (B.S.) in Architecture***
+*Bachelor of Science (B.S.) in Architecture*
 
 ----
 
-## EMPLOYMENT
+## TRABALHO
 
-### **Urban Development Analyst**
+*EMPLOYMENT*
+
+### Analista de Desenvolvimento Urbano
+
+*Urban Development Analyst*
 
 2019 - [...]
 
