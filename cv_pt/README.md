@@ -1,6 +1,6 @@
 ![](images/cv_image.jpg)
 
-## Renato Godoi da Cruz
+## RENATO GODOI DA CRUZ
 Arquiteto e Urbanista
 
 ##### contato
@@ -19,13 +19,13 @@ araras | sp
 
 ## INDICAÇÃO PESSOAL
 
-Arquiteto e Urbanista graduado pela Escola de Minas - Universidade Federal de Ouro Preto (UFOP). Na graduação foi membro, durante o ano de 2014 e parte de 2015, do grupo de pesquisa (CNPq) HÍBRIDA - poéticas híbridas da cena contemporânea, grupo que integra pesquisadores das artes cênicas e outros cursos na investigação de conceitos, procedimentos e dispositivos de criação concernentes às poéticas híbridas da cena contemporânea, por meio de seu estudo, problematização e experimentação. Atualmente é aluno do Programa de Mestrado Profissional em Construção Metálica do Departamento de Eng. Civil da mesma instituição. Na ocasião pesquisa, explora e avalia o potencial da utilização dos algoritmos evolutivos como ferramenta de otimização integrada ao Design Generativo como método de projeto, identificando o conteúdo teórico de base, explorando e avaliando está abordagem em um estudo de caso.
+Arquiteto e Urbanista graduado pela Escola de Minas - Universidade Federal de Ouro Preto (UFOP). Na graduação foi membro, durante o ano de 2014 e parte de 2015, do grupo de pesquisa (CNPq) HÍBRIDA - poéticas híbridas da cena contemporânea, grupo que integra pesquisadores das artes cênicas e outros cursos na investigação de conceitos, procedimentos e dispositivos de criação concernentes às poéticas híbridas da cena contemporânea, por meio de seu estudo, problematização e experimentação. Mestre do Programa de Mestrado Profissional em Construção Metálica do Departamento de Eng. Civil da mesma instituição. Nesta ocasião, pesquisei, explorei e avaliei o potencial da utilização dos algoritmos evolutivos como ferramenta de otimização integrada ao Design Generativo como método de projeto, identificando o conteúdo teórico de base, explorando e avaliando está abordagem em um estudo de caso.
 
 ## EDUCAÇÃO
 
 ##### Universidade Federal de Ouro Preto | UFOP
 
-2016 - 2018	Mestrado (M.S.) em construção metálica
+2016 - 2018	Mestre (M.S.) em construção metálica
 
 2010 - 2015 Bacharel (B.S.) em arquitetura e urbanismo
 
@@ -40,6 +40,8 @@ Arquiteto e Urbanista graduado pela Escola de Minas - Universidade Federal de Ou
 2017 - min. cidades - estudo de impacto de vizinhança - eiv
 
 ## EXPERIÊNCIAS PROFISSIONAIS
+
+2019 - atual - analista de desenvolvimento urbano | diretoria de acessibilidade e mobilidade reduzida | secretária de planejamento urbano (uberlândia, mg)
 
 2016 - proj.arquitetura - cervejaria weiterbier | kamofa (mariana, mg)
 
@@ -69,6 +71,11 @@ thesis, 2018 [Design generativo como ferramenta e metodologia projetual na const
 
 tfg, 2015 [Mapas contemporâneos: os mapas colaborativos como meio de produção, apropriação e planejamento das cidades](https://github.com/renatogcruz/CV/blob/master/others/tfg_renatogcruz.pdf)
 
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/renato-g-cruz-81632965/)
+
+[Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4388894U9)
 
 
 ---
@@ -83,11 +90,15 @@ UNIVERSIDADE FEDERAL DE OURO PRETO | 2015
 
 A oficina de Arquitetura Paramétrica foi oferecida no primeiro semestre de 2015 pelo Departamento de Arquitetura e Urbanismo em parceria com o professor e arquiteto Rafael Lemieszek Pinheiro. Durante o curso foi abordado aspectos da arquitetura aberta e da participativa nos processos de projeto. Projetos realizados: aplique de banco + protótipo de estúdio para práticas de obras do curso de arquitetura e urbanismo da universidade.
 
-**Protótipo do Estúdio para os alunos do curso de Arquitetura e Urbanismo da UFOP**
+Protótipo do Estúdio para os alunos do curso de Arquitetura e Urbanismo da UFOP
 ![](images/01.jpg)
-**Protótipo do Estúdio | Impressora 3D**
+
+Protótipo do Estúdio | Impressora 3D
+
 ![](images/02.jpg)
-**Processo aplique rhinoceros + Grasshopper**
+
+Processo aplique rhinoceros + Grasshopper
+
 ![](images/03.jpg)
 
 ![](images/04.jpg)
@@ -176,6 +187,7 @@ tem o domínio sobre esses recursos, podemos transcender quaisquer limitações 
 forma, este estudo foca na potência dos algoritmos num exercício de arquitetura generativa.
 
 ![](images/08_python.jpg)
+
 ![](images/09_python.jpg)
 
 ---
@@ -208,7 +220,7 @@ Computação como meio de design e impacto em disciplinas criativas e pedagogias
 
 Template para automatizar análise estrutural de treliças metálicas no ambiente Grasshopper + Karamba 3D
 
-![](images/simpleTruss.png)
+![](images/truss_diagram.jpg)
 
 Algoritmo escrito em Python para automatizar projetos de treliças metálicas constituídas de barras tubulares, de acordo com a norma brasileira NBR8800.
 
