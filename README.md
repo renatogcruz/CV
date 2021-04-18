@@ -9,19 +9,29 @@ Meu currículo
 
 *EDUCATION*
 
-### Pontífica Católica Universidade de Minas Gerais, PUC
+## Universidade de São Paulo, USP
 
-*Pontifical Catholic University of Minas Gerais, PUC*
+**University of São Paulo, USP**
 
-2020 - [...]
+2021 - 2022 (previsão)
+
+MBA (lato sensu) em Data Science e Analytics
+
+*MBA (lato sensu) in Data Science e Analytics*
+
+## Pontífica Católica Universidade de Minas Gerais, PUC
+
+**Pontifical Catholic University of Minas Gerais, PUC**
+
+2020 - 2021 (previsão)
 
 Posgraduação (lato sensu) em Building Information Modeling
 
 *Postgraduate (lato sensu) in Building Information Modeling*
 
-### Universidade Federal de Ouro Preto, UFOP
+## Universidade Federal de Ouro Preto, UFOP
 
-*Federal University of Ouro Preto, UFOP*
+**Federal University of Ouro Preto, UFOP**
 
 
 2016 - 2018	
@@ -40,9 +50,9 @@ Bacharel em Arquitetura e Urbanismo
 
 ## TRABALHO
 
-*EMPLOYMENT*
+**EMPLOYMENT**
 
-### Analista de Desenvolvimento Urbano
+## Analista de Desenvolvimento Urbano
 
 *Urban Development Analyst*
 
@@ -50,13 +60,13 @@ Bacharel em Arquitetura e Urbanismo
 
 Analista de Desenvolvimento Urbano - Secretária de Planejamento Urbano da cidade de Uberlândia | MG
 
-***Urban Development Analyst - Urban Planning Secretary (Uberlândia | BR)***
+*Urban Development Analyst - Urban Planning Secretary (Uberlândia | BR)*
 
 ----
 
 ## PUBLICAÇÕES
 
-***PUBLICATIONS***
+**PUBLICATIONS**
 
 
 Nov, 2018 [Generative design in the design development of metallic constructions](http://www.proceedings.blucher.com.br/article-details/29707).
@@ -68,7 +78,7 @@ Oct, 2016  [Interações contemporâneas: as mídias digitais como meio de produ
 
 ## OUTROS
 
-***OTHERS***
+**OTHERS**
 
 thesis, 2018 [Design generativo como ferramenta e metodologia projetual na construção metálica](http://www.repositorio.ufop.br/handle/123456789/10640)
 
