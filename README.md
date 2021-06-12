@@ -56,7 +56,7 @@ Bacharel em Arquitetura e Urbanismo
 
 *Urban Development Analyst*
 
-2019 - [...]
+2019 - 2021
 
 Analista de Desenvolvimento Urbano - Secretária de Planejamento Urbano da cidade de Uberlândia | MG
 
