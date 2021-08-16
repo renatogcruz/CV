@@ -9,7 +9,7 @@ Meu currículo
 
 *EDUCATION*
 
-## Universidade de São Paulo, USP
+#### Universidade de São Paulo, USP
 
 **University of São Paulo, USP**
 
@@ -19,7 +19,7 @@ MBA (lato sensu) em Data Science e Analytics
 
 *MBA (lato sensu) in Data Science e Analytics*
 
-## Pontífica Católica Universidade de Minas Gerais, PUC
+#### Pontífica Católica Universidade de Minas Gerais, PUC
 
 **Pontifical Catholic University of Minas Gerais, PUC**
 
@@ -29,7 +29,7 @@ Posgraduação (lato sensu) em Building Information Modeling
 
 *Postgraduate (lato sensu) in Building Information Modeling*
 
-## Universidade Federal de Ouro Preto, UFOP
+#### Universidade Federal de Ouro Preto, UFOP
 
 **Federal University of Ouro Preto, UFOP**
 
@@ -52,7 +52,29 @@ Bacharel em Arquitetura e Urbanismo
 
 **EMPLOYMENT**
 
-## Analista de Desenvolvimento Urbano
+#### Analista de dados
+
+*Data Analyst*
+
+2021 - atual
+
+Analista de dados - Lampejjo Analytics
+
+*Data Analyst - Lampejjo Analytics*
+
+
+#### Trainee Analista de Dados
+
+*Data Analyst Trainee*
+
+2021 - atual
+
+Trainee Analista de Dados - TerraLAB - Earth System Modelling and Simulation Laboratory | UFOP/INPE
+
+*Data Analyst Trainee - TerraLAB - Earth System Modelling and Simulation Laboratory | UFOP/INPE*
+
+
+#### Analista de Desenvolvimento Urbano
 
 *Urban Development Analyst*
 
